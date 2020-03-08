@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ProductsCart';
+  companyName = 'Amazon';
+  productData: any;
+
+  getProductData(data) {
+    this.productData = data;
+  }
 }

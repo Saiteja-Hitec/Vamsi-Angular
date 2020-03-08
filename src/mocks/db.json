@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Moto G5",
+            "quantity": 2
+        },
+        {
+            "id": 2,
+            "name": "Racold Geyser",
+            "quantity": 3
+        }
+    ]
+}
